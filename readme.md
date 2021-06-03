@@ -1,4 +1,4 @@
-Simple implementation of bitcoin transaction and block generation. Implemented using python-2.7.
+Simple implementation of bitcoin transaction and block generation on Python-2.7
 
 <h1>**Usage**</h1>
   
